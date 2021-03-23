@@ -1,15 +1,15 @@
-# Sistemas Operacionais I - Profº Leandro Colevati Dos Santos - 2021-1
+# Sistemas Operacionais I - ProfÂº Leandro Colevati Dos Santos - 2021-1
 
 ### ISO100-A16_ADS_FATEC-ZL
 
-Terceiro exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descrição do desafio proposto:
+Quarto exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descriÃ§Ã£o do desafio proposto:
 
-#### Ex. 3
+#### Ex. 4
 
-Um banco deve controlar Saques e Depósitos.  
+Um banco deve controlar Saques e DepÃ³sitos.  
 
-O sistema pode permitir um Saque e um Depósito simultâneos, mas nunca 2 Saques ou 2 Depósitos simultâneos.  
+O sistema pode permitir um Saque e um DepÃ³sito simultÃ¢neos, mas nunca 2 Saques ou 2 DepÃ³sitos simultÃ¢neos.  
 
-Para calcular a transação (Saque ou Depósito), o método deve receber o código da conta, o saldo da conta e o valor a ser transacionado.  
+Para calcular a transaÃ§Ã£o (Saque ou DepÃ³sito), o mÃ©todo deve receber o cÃ³digo da conta, o saldo da conta e o valor a ser transacionado.  
 
-Deve-se montar um sistema que deve considerar que 20 transações simultâneas serão enviadas ao sistema (aleatoriamente essas transações podem ser qualquer uma das opções) e tratar todas as transações, de acordo com as regras acima.
+Deve-se montar um sistema que deve considerar que 20 transaÃ§Ãµes simultÃ¢neas serÃ£o enviadas ao sistema (aleatoriamente essas transaÃ§Ãµes podem ser qualquer uma das opÃ§Ãµes) e tratar todas as transaÃ§Ãµes, de acordo com as regras acima.
